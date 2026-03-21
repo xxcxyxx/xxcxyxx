@@ -63,8 +63,8 @@
   <a href="https://github.com/xxcxyxx/Pre-training-with-Augmentation-Data-in-Deep-Learning-Model">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="./paper/lung_cancer_paper.pdf">
-    <img src="https://img.shields.io/badge/Paper-F4C2C2?style=flat&logo=readthedocs&logoColor=white" />
+<a href="https://github.com/xxcxyxx/Pre-training-with-Augmentation-Data-in-Deep-Learning-Model/blob/main/paper/lung_cancer_paper.pdf">
+  <img src="https://img.shields.io/badge/Paper-F4C2C2?style=flat&logo=readthedocs&logoColor=white" />
   </a>
 </p>
 
