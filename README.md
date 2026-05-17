@@ -1,7 +1,5 @@
 <div align="center">
 
-# Chaeyoung Bang
-
 ### Data Analyst | Data Engineering | SQL & Python
 
 SQL과 Python을 활용해 데이터를 수집하고 정리하며,  
