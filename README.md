@@ -159,4 +159,4 @@ MLP 기반 딥러닝 모델을 구현했습니다.
 ## 📫 Contact
 
 - GitHub: [github.com/xxcxyxx](https://github.com/xxcxyxx)
-- Email: 이메일 주소 입력
+- Email: co505123060@gmail.com
